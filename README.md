@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 <!--
 **otakbeku/otakbeku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Harits (or *Ais* for short) from Indonesia. Don't mind about my repos nor stars, those are just [_chindōgu_](https://en.wikipedia.org/wiki/Chindōgu) and my [_tsundoku_](https://en.wikipedia.org/wiki/Tsundoku) habits.
+
+- 💬 You can ask me about computer vision, digital image processing, NLP, information retrieval or AI/ML
+- 🌱 I’m currently learning about deep learning in medical, arts and system recommendation (_yeah, and other daily common tasks_)
+- 👯 I’m looking to collaborate on digital cultural anthropology preservation or any system recommendation projects
+- 📫 You can reach me from e-mail or Twitter (_links in the profile_)
+
+<details close>
+<summary>⚡ Cool stuff for you</summary>
+<br>
+Besides deep learning and programming, another topic that I love to learn is how eyes and colors work in nature, mostly in animals and computers (or digital devices). I would like to suggest you watch
+ <ul>
+  <li><i>Life in Color with David Attenborough</i>
+  </ul>
+Or read 
+ <ul>
+   <li><i>Digital Color Management</i> by Edward J. Giorgianni and Thomas E. Madden
+   <li><i>Measuring Colour (4th edition)</i> by R.W.G Hunt and M.R. Pointer.
+  </ul>
+</details>
+
+![img](https://images.unsplash.com/photo-1526319238109-524eecb9b913?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1310&q=80)
+*Zebra image from [Ron Dauphin](https://unsplash.com/@rondomondo)*
+
+### Ummm, here's some stats ..? (*Are we still doing this like 2009 blogs?*)
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=otakbeku&show_icons=true&count_private=true&hide_border=true" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otakbeku&hide_border=true&layout=compact" width="45%" align="right"/>
+</div>
