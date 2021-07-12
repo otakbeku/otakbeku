@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Harits (or *Ais* for short) from Indonesia. Don't mind about my repos nor stars, those are just [_chindōgu_](https://en.wikipedia.org/wiki/Chindōgu) and my [_tsundoku_](https://en.wikipedia.org/wiki/Tsundoku) habits.
+I'm Harits (for formal use, or *Ais* for short and _less formal_ use) from Indonesia. Don't mind about my repos nor stars, those are just [_chindōgu_](https://en.wikipedia.org/wiki/Chindōgu) and my [_tsundoku_](https://en.wikipedia.org/wiki/Tsundoku) habits.
 
 - 💬 You can ask me about computer vision, digital image processing, NLP, information retrieval or AI/ML
 - 🌱 I’m currently learning about deep learning in medical, arts and system recommendation (_yeah, and other daily common tasks_)
