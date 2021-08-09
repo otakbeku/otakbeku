@@ -32,12 +32,18 @@ Besides deep learning and programming, another topic that I love to learn is how
 Or read 
  <ul>
    <li><i>Digital Color Management</i> by Edward J. Giorgianni and Thomas E. Madden
-   <li><i>Measuring Colour (4th edition)</i> by R.W.G Hunt and M.R. Pointer.
+   <li><i>Measuring Colour (4th edition)</i> by R.W.G Hunt and M.R. Pointer
+   <li><i>When the Machine Made Art: The Troubled History of Computer Art</i> by Grant D. Taylor
+   <li><i>Digital Image Processing</i> by Rafael C. Gonzales and Richard E. Woods
   </ul>
-</details>
-
+ 
 ![img](https://images.unsplash.com/photo-1526319238109-524eecb9b913?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1310&q=80)
 *Zebra image from [Ron Dauphin](https://unsplash.com/@rondomondo)*
+ 
+ 
+</details>
+
+
 
 ### Ummm, here's some stats ..? (*Are we still doing this like 2009 blogs?*)
 
