@@ -35,6 +35,7 @@ Or read
    <li><i>Measuring Colour (4th edition)</i> by R.W.G Hunt and M.R. Pointer
    <li><i>When the Machine Made Art: The Troubled History of Computer Art</i> by Grant D. Taylor
    <li><i>Digital Image Processing</i> by Rafael C. Gonzales and Richard E. Woods
+   <li><i>Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs</i> by Ken Kocienda
   </ul>
  
 ![img](https://images.unsplash.com/photo-1526319238109-524eecb9b913?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1310&q=80)
