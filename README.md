@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Harits (for formal use, or *Ais* for short and _less formal_ use) from Indonesia. Don't mind about my repos nor stars, those are just [_chindōgu_](https://en.wikipedia.org/wiki/Chindōgu) and my [_tsundoku_](https://en.wikipedia.org/wiki/Tsundoku) habits.
+I'm Harits (for formal use, or *Ais* for short and _less formal_ use) from Indonesia. Don't mind about my repos nor the stars, those are just [_chindōgu_](https://en.wikipedia.org/wiki/Chindōgu) and my [_tsundoku_](https://en.wikipedia.org/wiki/Tsundoku) habits.
 
 - 💬 You can ask me about computer vision, digital image processing, NLP, information retrieval or AI/ML
 - 🌱 I’m currently learning about deep learning in medical, arts and system recommendation (_yeah, and other daily common tasks_)
-- 👯 I’m looking to collaborate on digital cultural anthropology preservation or any system recommendation projects
+- 👯 I’m looking to collaborate on digital cultural anthropology preservation, recommendation systems or any SDGs-oriented projects
 - 📫 You can reach me from e-mail or Twitter (_links in the profile_)
 
 <details close>
@@ -36,6 +36,7 @@ Or read
    <li><i>When the Machine Made Art: The Troubled History of Computer Art</i> by Grant D. Taylor
    <li><i>Digital Image Processing</i> by Rafael C. Gonzales and Richard E. Woods
    <li><i>Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs</i> by Ken Kocienda
+   <li><i>Deep Reinforcement Learning in Action</i> by Alexander Zai & Brandon Brown
   </ul>
  
 ![img](https://images.unsplash.com/photo-1526319238109-524eecb9b913?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1310&q=80)
