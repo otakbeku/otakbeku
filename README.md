@@ -21,6 +21,7 @@ I'm Harits (for formal use, or *Ais* for short and _less formal_ use) from Indon
 - 🌱 I’m currently learning about deep learning in medical, arts and system recommendation (_yeah, and other daily common tasks_)
 - 👯 I’m looking to collaborate on digital cultural anthropology preservation, recommendation systems or any SDGs-oriented projects
 - 📫 You can reach me from e-mail or Twitter (_links in the profile_)
+- 🌐 A quick recap about me: [link](https://read.cv/otakbeku)
 
 <details close>
 <summary>⚡ Cool stuff for you</summary>
